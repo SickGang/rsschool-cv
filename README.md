@@ -1,1 +1,1 @@
-https://sickgang.github.io/rsschool-cv/cv.md
+https://sickgang.github.io/rsschool-cv/cv
