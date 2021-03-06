@@ -1,0 +1,34 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+.header-content {
+    display: flex;
+    align-items: center;
+}
+.header-content_img {
+    margin-right: 20px;
+}
+.header-content_img img{
+    width: 200px;
+    height: 300px;
+}
+main {
+    display: flex;
+}
+.main-section {
+    padding: 0px 20px;
+}
+aside {
+    background-color: lightsteelblue;
+    padding: 0px 10px 0px;
+    font-size: 20px;
+}
+aside ul {
+    padding: 0px;
+    white-space: nowrap;
+    list-style: none;
+}
